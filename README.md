@@ -3,7 +3,7 @@ An infinite carousel framework is mainly done using iCarousel, features can set 
 Demo:
 
 
-[!image](https://github.com/jitalin/GFScrollView/blob/master/GFScrollView/GFScrollView/GFScrollViewDemo.gif)
+ ![image](https://github.com/jitalin/GFScrollView/blob/master/GFScrollView/GFScrollView/GFScrollViewDemo.gif)
 
 
 调用方式：
